@@ -51,7 +51,7 @@ Hoje, meu foco é aprofundar cada vez mais meus conhecimentos e aplicar as habil
 
 <div>
 
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
+<img height="20" alt="GIF" src="./img/soulgem.gif?raw=true"/>Meus interesses pessoais:
 
 <table>
 <tr>
@@ -66,7 +66,7 @@ Hoje, meu foco é aprofundar cada vez mais meus conhecimentos e aplicar as habil
 - ⚽ Sou cruzeirense nato, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">cabuloso</a>. :rooster:<br />
 - 🎮 Meus hobbies são futebol, lol, sinuca e bares<br />
 - 📺 Minha série preferida chama-se Breaking Bad, e meu filme preferido com certeza e o Tropa de Elite.<br />
-- 💁‍♂️ Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
+- :speech_balloon: Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: Para me encontrar, este é meu <a href="mailto:rodriguesguilerme4@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 </p>
 </div>
