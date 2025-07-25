@@ -115,3 +115,23 @@ Hoje, meu foco é aprofundar cada vez mais meus conhecimentos e aplicar as habil
 
 -----
 
+<table>
+<tr>
+ <td align="center">:octocat: <a href="https://www.githubwrapped.io/guilhermeh-r" target="_blank">GitHub Wrapped</a></td>
+ <td align="center">:watch: <a href="https://wakatime.com/@guilhermeh_r">WakaTime</a></td>
+</tr>
+<tr>
+<td>
+<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/Guilhermeh-R/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
+</td>
+<td>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=guilhermeh_r&theme=dark&layout=compact"/>
+</td>
+</tr>
+<tr>
+ <td align="center"></td>
+ <td align="center"></td>
+</tr> 
+</table>
+
+---
