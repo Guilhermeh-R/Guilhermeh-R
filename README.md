@@ -146,7 +146,7 @@ Hoje, meu foco é aprofundar cada vez mais meus conhecimentos e aplicar as habil
 </tr>
 <tr>
 <td>
-<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/Guilhermeh-R/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
+<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/Guilhermeh-R/repos?time_range=all_time&loc_metric=changed&theme=dark"/>
 </td>
 <td>
 <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=guilhermeh_r&theme=dark&layout=compact"/>
