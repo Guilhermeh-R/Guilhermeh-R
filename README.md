@@ -114,7 +114,31 @@ Hoje, meu foco é aprofundar cada vez mais meus conhecimentos e aplicar as habil
 </div>
 
 -----
+<div>
 
+<img height="20" alt="GIF" src="https://guilhermeh-r.github.io/image/graphic.gif?raw=true"/>GitHub Stats:
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=guilhermeh-r&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeh-r&theme=dark&locale=pt-br&langs_count=7"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeh-r&layout=pie&theme=dark&locale=pt-br"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
+<table>
 <table>
 <tr>
  <td align="center">:octocat: <a href="https://www.githubwrapped.io/guilhermeh-r" target="_blank">GitHub Wrapped</a></td>
@@ -133,5 +157,6 @@ Hoje, meu foco é aprofundar cada vez mais meus conhecimentos e aplicar as habil
  <td align="center"></td>
 </tr> 
 </table>
+</div>
 
 ---
