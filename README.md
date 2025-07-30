@@ -61,8 +61,8 @@ Hoje, meu foco é aprofundar cada vez mais meus conhecimentos e aplicar as habil
 <div align="justify">
 <p> 
 - 👨‍🎓 Na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, sou <code>aluno</code> no curso de Engenharia de Software. 
-- 👨‍💻 Estou aprendendo algumas linguagens e frameworks como : SpringBoot e Node.js.
-- ⚽ Sou cruzeirense nato, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">cabuloso</a>. :rooster:<br />
+- 👨‍💻 Estou aprendendo algumas linguagens e frameworks como : SpringBoot.
+- ⚽ Sou cruzeirense nato, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">cabuloso</a>.🦊<br />
 - 🎮 Meus hobbies são futebol, lol, sinuca e bares<br />
 - 📺 Minha série preferida chama-se Breaking Bad, e meu filme preferido com certeza e o Tropa de Elite.<br />
 - :speech_balloon: Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
