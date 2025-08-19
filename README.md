@@ -32,7 +32,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Guilherme</code>, tenho 19 anos, moro em BH e estou começando minha carreira como um programador fullstack. Atualmente sou <code>aluno</code> no curso de Engenharia de Software <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.
+<i><b>Olá</b> :wave:, sou o <code>Guilherme</code>, tenho 20 anos, moro em BH e estou começando minha carreira como um programador fullstack. Atualmente sou <code>aluno</code> no curso de Engenharia de Software <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.
 </div>
 
 -----
@@ -41,7 +41,7 @@
 
 <div align="justify">
 
-Sou estudante de Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> e estou no 4º período. Entrei nessa área por acaso, sem saber exatamente o que esperar, mas logo descobri minha paixão pela programação. No início, enfrentei muitas dificuldades, sendo o mais novo e sem qualquer experiência com código. No entanto, nunca deixei que isso me desmotivasse. Sempre busquei aprender, evoluir e superar desafios, me dedicando ao máximo para alcançar meus objetivos e colher os frutos do meu esforço.
+Sou estudante de Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> e estou no 5º período. Entrei nessa área por acaso, sem saber exatamente o que esperar, mas logo descobri minha paixão pela programação. No início, enfrentei muitas dificuldades, sendo o mais novo e sem qualquer experiência com código. No entanto, nunca deixei que isso me desmotivasse. Sempre busquei aprender, evoluir e superar desafios, me dedicando ao máximo para alcançar meus objetivos e colher os frutos do meu esforço.
 
 Hoje, meu foco é aprofundar cada vez mais meus conhecimentos e aplicar as habilidades adquiridas na faculdade em um ambiente de trabalho. Acredito que essa experiência prática será essencial para meu crescimento profissional e para me tornar um desenvolvedor cada vez melhor. 🚀
 </div>
@@ -63,7 +63,7 @@ Hoje, meu foco é aprofundar cada vez mais meus conhecimentos e aplicar as habil
 - 👨‍🎓 Na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, sou <code>aluno</code> no curso de Engenharia de Software. 
 - 👨‍💻 Estou aprendendo algumas linguagens e frameworks como : SpringBoot.
 - ⚽ Sou cruzeirense nato, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">cabuloso</a>.🦊<br />
-- 🎮 Meus hobbies são futebol, lol, sinuca e bares<br />
+- 🎮 Meus hobbies são futebol, lol, sinuca e series<br />
 - 📺 Minha série preferida chama-se Breaking Bad, e meu filme preferido com certeza e o Tropa de Elite.<br />
 - :speech_balloon: Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: Para me encontrar, este é meu <a href="mailto:rodriguesguilerme4@gmail.com" target="_blank">e-mail</a> pessoal.<br />
