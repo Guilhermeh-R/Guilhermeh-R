@@ -41,7 +41,7 @@
 
 <div align="justify">
 
-Sou estudante de Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> e estou no 5º período. Entrei nessa área por acaso, sem saber exatamente o que esperar, mas logo descobri minha paixão pela programação. No início, enfrentei muitas dificuldades, sendo o mais novo e sem qualquer experiência com código. No entanto, nunca deixei que isso me desmotivasse. Sempre busquei aprender, evoluir e superar desafios, me dedicando ao máximo para alcançar meus objetivos e colher os frutos do meu esforço.
+Sou estudante de Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> e estou no 6º período. Entrei nessa área por acaso, sem saber exatamente o que esperar, mas logo descobri minha paixão pela programação. No início, enfrentei muitas dificuldades, sendo o mais novo e sem qualquer experiência com código. No entanto, nunca deixei que isso me desmotivasse. Sempre busquei aprender, evoluir e superar desafios, me dedicando ao máximo para alcançar meus objetivos e colher os frutos do meu esforço.
 
 Hoje, meu foco é aprofundar cada vez mais meus conhecimentos e aplicar as habilidades adquiridas na faculdade em um ambiente de trabalho. Acredito que essa experiência prática será essencial para meu crescimento profissional e para me tornar um desenvolvedor cada vez melhor. 🚀
 </div>
